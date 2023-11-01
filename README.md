@@ -10,9 +10,10 @@ Challenge your friends to an exciting game of Tic Tac Toe and see who emerges as
 - Quick game restart option with a single click 🔄.
 
 📸 **Screenshots** 📸
-![Screenshot 1](tic images/tic_1.png)
-![Screenshot 2](tic images/tic_2.png)
-![Screenshot 3](tic images/tie_3.png)
+
+![tic_1](https://github.com/AKdevi99/tic-tac-toe-game/assets/133839771/bf78b491-864c-435c-bdc9-3693af54b806)
+![tic_2](https://github.com/AKdevi99/tic-tac-toe-game/assets/133839771/efa3b498-2df7-46c9-b1fc-c2f299b96510)
+![tie_3](https://github.com/AKdevi99/tic-tac-toe-game/assets/133839771/30e500c7-94db-483f-9c64-b3ce002380f8)
 
 🚀 **Getting Started** 🚀
 1. Clone the repository.
